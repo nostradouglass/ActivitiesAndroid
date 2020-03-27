@@ -1,0 +1,2 @@
+rootProject.name='ActivityMovement'
+include ':app'
